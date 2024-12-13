@@ -1,5 +1,6 @@
 # AWS_VM-Terraform
 The project primarily aims to centralize AWS VM management to improve progress to deployment.
+![alt text](https://miro.medium.com/v2/resize:fit:828/format:webp/1*yejOMW6Lyqr3sLGihGeH-w.png)
 
 ## Step to Run the Terrform
 1. Create a folder for store all the terrform related files
