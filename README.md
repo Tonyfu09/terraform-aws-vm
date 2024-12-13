@@ -7,7 +7,8 @@ The project primarily aims to centralize AWS VM management to improve progress t
 3. Verify status in the file
 
 ## Content that includes
+- VPC created for departnment, aws_vpc
+- subnet under vpc
+- static internal IP address of the for webserver
+- EC2 for webserver 01
 
-
-## output to....
-Further we will using terraform output
